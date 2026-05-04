@@ -1,2 +1,2 @@
-# Analtytics-dashbord
-it is analtytics dashbord
+# Analytics-dashbord
+it is analytics dashbord
